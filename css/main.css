@@ -316,9 +316,9 @@ ul{
   padding:0
 }
 .container{
-  margin:auto 0;
+/*   margin:auto 0; */
   padding:20px;
-/*   box-sizing:border-box */
+  box-sizing:border-box
 }
 .container .large{
   max-width:1300px;
