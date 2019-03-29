@@ -316,8 +316,8 @@ ul{
   padding:0
 }
 .container{
-/*   margin:auto 0; */
-/*   padding:20px; */
+  margin:auto 0; 
+  padding:20px; 
   box-sizing:border-box
 }
 .container .large{
