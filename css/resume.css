@@ -1,6 +1,5 @@
 body {
     width: 100%;
-    /*max-width: 1900px;*/
     min-width: 1480px;
     font-family: et-book,Palatino,"Palatino Linotype","Palatino LT STD","Book Antiqua",Georgia,serif;
     background-color: #fffff8;
@@ -50,7 +49,7 @@ a {
 	color: white;
 	padding: 25px;
 	margin: 0px 300px 0px 300px;
-	border:5px;
+	border:2px;
 	border-style:solid; 
 	border-color:#d4bb04; 
 }
