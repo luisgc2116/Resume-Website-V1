@@ -125,7 +125,7 @@ section{
 
 .section_outer_block {
     display: flex;
-	padding: 50px 0px 250px 100px;
+	padding: 50px 80px 250px 80px;
 }
 
 .section_titles{
@@ -152,7 +152,7 @@ section{
 /* LEFT SIDE*/
 .left_side {
     flex: 30%;
-    padding: 35px 20px 0px 35px;
+    padding: 15px 20px 0px 35px;
     border-right: 2px solid black;
 }
 
@@ -185,7 +185,7 @@ section{
 /* RIGHT SIDE */
 .right_side {
     flex: 60%;
-    padding: 35px 20px 0px 35px;
+    padding: 15px 20px 0px 35px;
 }
 
 .two_section{
