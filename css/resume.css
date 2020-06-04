@@ -125,7 +125,7 @@ section{
 
 .section_outer_block {
     display: flex;
-	padding: 100px 0px 250px 100px;
+	padding: 50px 0px 250px 100px;
 }
 
 .section_titles{
@@ -143,10 +143,15 @@ section{
 	text-shadow: 0 0 0px black;
 }
 
+.section_page {
+	display: flex; 
+	box-shadow: 0px 22px 17px 16px #888888;
+}
+
 /* LEFT SIDE*/
 .left_side {
     flex: 30%;
-    padding: 5px 20px 0px 35px;
+    padding: 35px 20px 0px 35px;
     border-right: 2px solid black;
 }
 
@@ -179,7 +184,7 @@ section{
 /* RIGHT SIDE */
 .right_side {
     flex: 60%;
-    padding: 5px 20px 0px 35px;
+    padding: 35px 20px 0px 35px;
 }
 
 .two_section{
